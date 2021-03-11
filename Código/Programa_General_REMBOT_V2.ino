@@ -13,8 +13,8 @@
 
 //CREDENCIALES VARIABLES, CAMBIAR EN CASO DE SER NECESARIO
 String header;
-const char* ssid = "Totalplay-9A7F";
-const char* password = "FJ2214MG";
+const char* ssid = "";
+const char* password = "";
 WiFiServer server(80);
 
 
